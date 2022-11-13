@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://octodon.social/@marxjohnson" rel="me">🐘</a>
+<a href="https://octodon.social/@marxjohnson" rel="me">Masoton</a>
 <!--
 **marxjohnson/marxjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
